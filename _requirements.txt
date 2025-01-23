@@ -1,0 +1,9 @@
+# Core Libraries
+numpy==1.23.5
+networkx==3.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# Development and Testing
+pytest==7.4.0
+pytest-benchmark==4.0.0
